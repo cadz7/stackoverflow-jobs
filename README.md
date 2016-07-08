@@ -4,14 +4,14 @@ Built using:
  MongoDB
 
 Available endpoints:
-  Pages
-  Count
-Access the api: localhost:5000/jobs?page=1
+  Pages 
+  Count 
+Access the API: localhost:5000/jobs?page=1
 
 Tasks performed:
-  Convert XML feed to JSON.
-  Clean json feed by removing HTML tags
-  cron job to fetch new job postings and add to MongoDB collection every 10 seconds
+  Convert XML feed to JSON. 
+  Clean json feed by removing HTML tags 
+  Cron job to fetch new job postings and add to MongoDB collection every 10 seconds
   
 
   
